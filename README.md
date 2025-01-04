@@ -171,6 +171,8 @@ You are free to:
 
 For more details, see the [LICENSE file](./LICENSE).
 
+![License: CC0 1.0 Universal](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+
 
 
 
