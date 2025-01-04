@@ -162,5 +162,15 @@ You can view or edit the live version of this code on CodePen: [https://codepen.
 
 To use this code locally, download the files in the `gif-source-code` folder and open `index.html` in your browser.
 
+## License
+
+This repository is dedicated to the public domain under the [Creative Commons Zero Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+You are free to:
+- Copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+For more details, see the [LICENSE file](./LICENSE).
+
+
 
 
