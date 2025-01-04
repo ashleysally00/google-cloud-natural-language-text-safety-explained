@@ -1,5 +1,7 @@
 # Using Google Cloud Natural Language API to Moderate Text
 
+![Text Safety Demo](BlockOrSafe.gif)
+
 Text moderation analyzes written content to detect language that may be inappropriate, harmful, offensive, or unsafe. This includes identifying:
 
 * Profanity or abusive language: Words or phrases that could offend or harm
