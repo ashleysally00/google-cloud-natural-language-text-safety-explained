@@ -149,3 +149,18 @@ https://www.cloudskillsboost.google/paths/183/course_templates/1036/video/513303
 Learn safety skills hands on in a lab: see Safeguarding with Vertex AI in Gemini on the Software Girls channel and solve the lab on your own
 https://www.youtube.com/watch?v=SM2ShTcMWVs
 
+## Source Code for GIF
+
+I wrote the code for the `gif-source-code` folder in [CodePen](https://codepen.io/captainanonymous00/pen/WbeXJMG) using Babel.
+
+### Files
+- `index.html`: The HTML structure for the project.
+- `style.css`: The CSS for styling.
+- `script.js`: The JavaScript code written in ES6+.
+
+You can view or edit the live version of this code on CodePen: [https://codepen.io/captainanonymous00/pen/WbeXJMG](https://codepen.io/captainanonymous00/pen/WbeXJMG).
+
+To use this code locally, download the files in the `gif-source-code` folder and open `index.html` in your browser.
+
+
+
