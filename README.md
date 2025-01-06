@@ -164,14 +164,17 @@ To use this code locally, download the files in the `gif-source-code` folder and
 
 ## License
 
-This repository is dedicated to the public domain under the [Creative Commons Zero Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-You are free to:
-- Copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
-For more details, see the [LICENSE file](./LICENSE).
+### Summary of the License:
+- You are free to share and adapt the work for **non-commercial purposes**.
+- Proper attribution must be given to the author.
+- Commercial use is not permitted without explicit permission.
 
-![License: CC0 1.0 Universal](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+For more details, see the [LICENSE](LICENSE) file.
+
 
 
 
